@@ -1,4 +1,4 @@
-## Mint Analysis:
+# Mint Analysis:
 
 Mint.com already comes with great simple visualizations, but I was curious as to how I can visualize data using Julia. The pictures are below. 
 
